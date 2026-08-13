@@ -439,8 +439,4 @@ This project was created as a practical SQL assignment to demonstrate advanced S
 
 ---
 
-<p align="center">⭐ If you found this project useful, consider giving it a star!
 
-Made with 💙 using SQL & MySQL
-
-</p>
